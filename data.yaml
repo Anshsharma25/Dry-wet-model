@@ -1,0 +1,9 @@
+train:  /content/drive/.shortcut-targets-by-id/18BIS7cRw6NV9Hdyswrgslwkn6e9nxxqr/Dry-Model/Dataset/train/images
+val: /content/drive/.shortcut-targets-by-id/18BIS7cRw6NV9Hdyswrgslwkn6e9nxxqr/Dry-Model/Dataset/valid/images
+test: /content/drive/.shortcut-targets-by-id/18BIS7cRw6NV9Hdyswrgslwkn6e9nxxqr/Dry-Model/Dataset/test/images
+
+nc: 3
+names:
+  0: Dry Waste
+  1: Wet Waste
+  2: Background 

@@ -22,7 +22,6 @@ pip install -r requirements.txt
 The dataset should be organized into training and validation directories with images and corresponding label files in YOLO format.
 
 dataset/
-│
 ├── train/
 │   ├── images/
 │   ├── labels/

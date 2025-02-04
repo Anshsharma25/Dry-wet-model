@@ -72,6 +72,10 @@ yolo task=detect mode=test model=runs/train/exp/weights/best.pt data=data.yaml
 This will generate performance metrics such as Precision, Recall, and mAP (mean Average Precision) along with a confusion matrix, which can be useful for analyzing the model’s accuracy 📊.
 
 # 🏅 Example Results
+![Screenshot 2025-01-03 152902](https://github.com/user-attachments/assets/1f7dddbd-d1d0-497c-aebc-a04ef1ca68ee) ![Screenshot 2024-12-16 184546](https://github.com/userattachments/assets/6d960c9e-12da-44d9-a874-ae0ea90392ed)
+
+![Screenshot 2024-12-19 122052](https://github.com/user-attachments/assets/efa93fa2-f392-4cc4-b14e-0167283da57d)
+
 Upon successful inference, the output images will include bounding boxes around detected objects, labeled with their respective classes ("dry" or "wet"), and the associated confidence scores 🔍.
 
 # 🛠 Troubleshooting
